@@ -1,1 +1,1 @@
-# https://webmasterahsan.github.io
+# webmasterahsan.github.io
