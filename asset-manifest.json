@@ -4,12 +4,12 @@
   "private": true,
   "files": {
     
-    "main.css": "/react-gh-pages/static/css/main.932e1e24.css",
-    "main.js": "/react-gh-pages/static/js/main.8f3e6e50.js",
+    "main.css": "/webPortfolio/static/css/main.932e1e24.css",
+    "main.js": "/webPortfolio/static/js/main.8f3e6e50.js",
     "static/media/Award.JPG": "/react-gh-pages/static/media/Award.2f09e3bad57352cdb2c7.JPG",
     "static/media/snake.png": "/react-gh-pages/static/media/snake.c6d36ffc7bddad708b30.png",
     "static/media/pngegg.png": "/react-gh-pages/static/media/pngegg.04e136a94f1c0dd9216d.png",
-    "static/media/CV_ahsan.pdf": "/react-gh-pages/static/media/CV_ahsan.c0d282bf8e58b34a07aa.pdf",
+    "static/media/CV_ahsan.pdf": "/webPortfolio/static/media/CV_ahsan.c0d282bf8e58b34a07aa.pdf",
     "static/media/two.webp": "/react-gh-pages/static/media/two.d4294e16b6d594473019.webp",
     "static/media/club.jpg": "/react-gh-pages/static/media/club.51ac2d16de88dad05807.jpg",
     "static/media/thesis.jpg": "/react-gh-pages/static/media/thesis.36f385eedab323f3c1fd.jpg",
@@ -22,9 +22,9 @@
     "static/media/back.png": "/react-gh-pages/static/media/back.8e4d4086e3ff924776d1.png",
     "static/media/color.png": "/react-gh-pages/static/media/color.06296978104396a98f7f.png",
     "static/media/html.png": "/react-gh-pages/static/media/html.645513762b887c281c32.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.932e1e24.css.map": "/react-gh-pages/static/css/main.932e1e24.css.map",
-    "main.8f3e6e50.js.map": "/react-gh-pages/static/js/main.8f3e6e50.js.map"
+    "index.html": "/webPortfolio/index.html",
+    "main.932e1e24.css.map": "/webPortfolio/static/css/main.932e1e24.css.map",
+    "main.8f3e6e50.js.map": "/webPortfolio/static/js/main.8f3e6e50.js.map"
   },
   "entrypoints": [
     "static/css/main.932e1e24.css",
