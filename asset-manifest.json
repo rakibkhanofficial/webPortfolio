@@ -6,9 +6,9 @@
     
     "main.css": "/webPortfolio/static/css/main.932e1e24.css",
     "main.js": "/webPortfolio/static/js/main.8f3e6e50.js",
-    "static/media/Award.JPG": "/webPortfolio/static/media/Award.2f09e3bad57352cdb2c7.JPG",
-    "static/media/snake.png": "/webPortfolio/static/media/snake.c6d36ffc7bddad708b30.png",
-    "static/media/pngegg.png": "/webPortfolio/static/media/pngegg.04e136a94f1c0dd9216d.png",
+    "static/media/Award.JPG": "./webPortfolio/static/media/Award.2f09e3bad57352cdb2c7.JPG",
+    "static/media/snake.png": "./webPortfolio/static/media/snake.c6d36ffc7bddad708b30.png",
+    "static/media/pngegg.png": "./webPortfolio/static/media/pngegg.04e136a94f1c0dd9216d.png",
     "static/media/CV_ahsan.pdf": "/webPortfolio/static/media/CV_ahsan.c0d282bf8e58b34a07aa.pdf",
     "static/media/two.webp": "/webPortfolio/static/media/two.d4294e16b6d594473019.webp",
     "static/media/club.jpg": "webPortfolio/static/media/club.51ac2d16de88dad05807.jpg",
