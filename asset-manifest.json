@@ -22,8 +22,8 @@
     "static/media/color.png": "/webPortfolio/static/media/color.06296978104396a98f7f.png",
     "static/media/html.png": "/webPortfolio/static/media/html.645513762b887c281c32.png",
     "index.html": "/webPortfolio/index.html",
-    "main.932e1e24.css.map": "/webPortfolio/static/css/main.932e1e24.css.map",
-    "main.8f3e6e50.js.map": "/webPortfolio/static/js/main.8f3e6e50.js.map"
+    "static/css/main.932e1e24.css.map": "/webPortfolio/static/css/main.932e1e24.css.map",
+    "static/js/main.8f3e6e50.js.map": "/webPortfolio/static/js/main.8f3e6e50.js.map"
   },
   "entrypoints": [
     "static/css/main.932e1e24.css",
